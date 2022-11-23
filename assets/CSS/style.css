@@ -1,0 +1,85 @@
+h2{
+   font-size: 150%;
+}
+h3{
+   font-size: 150%;
+}
+strong{
+   font-size: 90%;
+   padding-right: 5px;
+}
+strong.space{
+   padding-left: 10px;
+}
+
+p{
+   margin: 6px;
+}
+.cuadro {
+  border-style: solid;
+  border-color: black;
+  border-radius: 10px;
+  margin: 130px;
+  padding: 0px 0px 40px 0px;
+  background-color: #f1ebe3;
+}
+
+.superior { 
+  display: flex;
+
+  border-bottom-left-radius:90%;
+  border-bottom-right-radius:90%;
+  background-color: #d0c6bc;
+}
+
+.inferior {
+   display: flex;
+   padding-top: 20px;
+}
+
+img.aguilaa {
+  width: 100px;
+  height: 100px;
+  padding-left: 40px;
+  padding-top: 10px;
+}
+img.mifoto{
+   width: 170px;
+   height:180px;
+   padding-left: 40px;
+}
+img.minifoto{
+   padding-left: 100px;
+   width: 100px;
+   height:110px;
+   filter: opacity(50%);
+   padding-right: 10px;
+
+}
+img.miniRep{
+   width: 50px;
+   height:50px;
+}
+
+.textmexico{
+   margin: 30px;
+}
+
+.textinsti{
+   text-align: left;
+   padding-left: 10px;
+}
+
+.textooo{
+   padding-left: 30px;
+   text-align: left;
+}
+
+.minitext{
+   text-align: center;
+}
+
+.minifoto{
+   display: flex;
+   flex-direction: column;
+}
